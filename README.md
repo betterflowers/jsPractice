@@ -1,3 +1,23 @@
+```
+Tasking:
+1    计算条形码出现对应次数
+2  根据list分析条形码对应的详细商品信息
+3  计算商品总价
+4  格式化输出
+5 打印出清单字符串
+
+上下文图：
+```
+![](/Capture.JPG)
+```
+总体：
+P:2h
+D:3.5h
+C:做的过程有一些不熟悉地方卡住，时间越晚越紧张，越容易乱
+A:需要加强js基础知识，还要加强编程思维
+```
+
+
 # Requirement
 A cash register (POS) system is used in the store for settlement of the store. This cashier will settle and print the receipt (Receipt) according to the item(Item) in the customer's shopping cart (Cart) at the time of settlement.
 
